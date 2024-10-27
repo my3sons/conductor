@@ -1,9 +1,0 @@
-/Users/a660709/data/projects/workflow_orchestration/marketplace/src/main/java/com/bestbuy/oms/marketplace/workers/PostOrderProcessorWorker.java
-/Users/a660709/data/projects/workflow_orchestration/marketplace/src/main/java/com/bestbuy/oms/marketplace/workers/FraudCheckWorker.java
-/Users/a660709/data/projects/workflow_orchestration/marketplace/src/main/java/com/bestbuy/oms/marketplace/Application.java
-/Users/a660709/data/projects/workflow_orchestration/marketplace/src/main/java/com/bestbuy/oms/marketplace/workers/SettlementWorker.java
-/Users/a660709/data/projects/workflow_orchestration/marketplace/src/main/java/com/bestbuy/oms/marketplace/workers/TaxCalculationWorker.java
-/Users/a660709/data/projects/workflow_orchestration/marketplace/src/main/java/com/bestbuy/oms/marketplace/workers/PaymentWorker.java
-/Users/a660709/data/projects/workflow_orchestration/marketplace/src/main/java/com/bestbuy/oms/marketplace/workers/AddressStandardizationWorker.java
-/Users/a660709/data/projects/workflow_orchestration/marketplace/src/main/java/com/bestbuy/oms/marketplace/workers/ShipmentWorker.java
-/Users/a660709/data/projects/workflow_orchestration/marketplace/src/main/java/com/bestbuy/oms/marketplace/workers/InvoiceWorker.java

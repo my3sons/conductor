@@ -1,9 +1,0 @@
-com/bestbuy/oms/marketplace/workers/ShipmentWorker.class
-com/bestbuy/oms/marketplace/workers/PostOrderProcessorWorker.class
-com/bestbuy/oms/marketplace/workers/FraudCheckWorker.class
-com/bestbuy/oms/marketplace/workers/PaymentWorker.class
-com/bestbuy/oms/marketplace/workers/SettlementWorker.class
-com/bestbuy/oms/marketplace/workers/InvoiceWorker.class
-com/bestbuy/oms/marketplace/workers/TaxCalculationWorker.class
-com/bestbuy/oms/marketplace/workers/AddressStandardizationWorker.class
-com/bestbuy/oms/marketplace/Application.class
